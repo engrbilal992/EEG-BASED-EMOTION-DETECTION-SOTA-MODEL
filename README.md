@@ -40,7 +40,7 @@ By combining traditional signal processing techniques with feature selection and
 - **Chi-Square (CHI2)** feature selection reduced the feature set from 420 to the most significant 50.
 - Multiple classifiers were tested, with Fine KNN showing the best results.
 
-![Block Diagram](Images/BlockDiagram.png)
+![BlockDiagram](Images/BlockDiagram.PNG)
 
 ---
 
