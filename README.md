@@ -15,6 +15,8 @@ This project presents a machine-learning-based system for emotion recognition us
 - **Anger**
 - **Pleasure**
 
+![Areousal](Images/Areousal.png)
+
 By combining traditional signal processing techniques with feature selection and machine learning classifiers, the project achieved a top classification accuracy of **92.2%** using the Fine K-Nearest Neighbor (KNN) classifier.
 
 ![Best Achieved](Images/bestachieved.jpg)
