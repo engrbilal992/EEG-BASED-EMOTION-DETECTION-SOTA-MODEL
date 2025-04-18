@@ -1,8 +1,6 @@
 # Cracking the Emotional Code: Identifying Emotions through Electroencephalograms
 
 Author: Muhammad Bilal Sajid  
-Email: bilalsajid695@gmail.com
-Phone: +923145844461
 
 ---
 
@@ -80,6 +78,11 @@ Watch the YouTube video demonstration of this project for a detailed walkthrough
 👉 *([Link to YouTube video here](https://www.youtube.com/watch?v=7pDj0y3pBpY))*
 
 ---
+
+## Contact
+
+Email: bilalsajid695@gmail.com  
+Phone: +923145844461
 
 ## License
 
