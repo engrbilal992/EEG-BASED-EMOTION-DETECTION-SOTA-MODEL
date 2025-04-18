@@ -43,11 +43,22 @@ By combining traditional signal processing techniques with feature selection and
 This project is implemented in **MATLAB**.  
 You will need:
 
-- MATLAB R2023a or later.
+- MATLAB R2021a or later.
 - Signal Processing Toolbox.
 - Statistics and Machine Learning Toolbox.
 
 ---
+
+## Citation
+
+If you use this work in your research, please cite it as:
+
+> Muhammad Bilal Sajid, Muhammad Umar Khan, Muhammad Faraz, Syed Zohaib Hassan Naqvi, Sumair Aziz, and Gabriel Axel Montes,  
+> “Cracking the Emotional Code: Identifying Emotions Through Electroencephalograms,”  
+> *Proceedings of the 2023 20th International Bhurban Conference on Applied Sciences and Technology (IBCAST)*,  
+> IEEE, Bhurban, Murree, Pakistan, August 22-25, 2023.  
+> DOI: [10.1109/IBCAST59916.2023.10712834](https://doi.org/10.1109/IBCAST59916.2023.10712834)  
+
 
 ## Publication
 
